@@ -1,8 +1,7 @@
 # My links
 
-This repo contains samples and links to interesting stuff I found on Internet related to application development.
+This repo contains interesting stuff I have found on the internet, mostly related to application development.
 
-I am not claiming authorship of any linked contents in this page.
-Authorship information must be obtained in the original posts.
+I am not claiming authorship of any linked contents or sample code in this repo. For authorship information please follow the links and read their docs.
 
-More information in the wiki.
+More information in [the wiki](https://github.com/jramos-br/links/wiki).
