@@ -4,3 +4,5 @@ This repo contains samples and links to interesting stuff I found on Internet re
 
 I am not claiming authorship of any linked contents in this page.
 Authorship information must be obtained in the original posts.
+
+More information in the wiki.
